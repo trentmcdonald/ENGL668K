@@ -29,3 +29,4 @@ While transcribing consider how will you deal with:
 * line breaks
 * authorial revisions
 * interlinear insertions
+* unclear text or text you can't quite read from the page

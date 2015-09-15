@@ -23,10 +23,3 @@ Now every member of the group should **clone** the forked repository on their ow
 The folder `images` contains two facsimile images of the draft of Shelley's poem "My lost William", MS HM 2177, ff. 45v–46v
 
 The folder `transcription` contains two blank text file, one per image. Write your transcription on these files collaboratively, either online on the GitHub editor, or offline (on your local clone) with a plain text editor (i.e. not MS Word).
-
-While transcribing consider how will you deal with:
-
-* line breaks
-* authorial revisions
-* interlinear insertions
-* unclear text or text you can't quite read from the page

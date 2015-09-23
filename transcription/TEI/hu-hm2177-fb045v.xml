@@ -18,8 +18,6 @@
         <line>Like thee, can die - thy funeral shrine</line>
         <line rend="indent1">is thy mother`s heart <add place="superlinear">heart</add> <add place="sublinear">grief</add> & mine</line>
         <space dim="vertical" unit="lines" extent="3"/>
-    </zone>
-    <zone rotate="180">
         <line>μνημη των αγαθων αeι θαλης</line>
         <line><unclear reason="illegible" extend="3" unit="chars"></unclear></line>
     </zone>

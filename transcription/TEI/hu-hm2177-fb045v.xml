@@ -4,5 +4,17 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb045v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb045v.jpg"/>
-    
+    <zone type="left_margin" rotate="90">
+   <line>think not gold or flattery vile</line>
+   <line><del rend="strikethrough">?W</del></line>
+</zone>
+    <zone>
+        <line rend="indent10">*45v.</line>
+        <line>Thou art not... if a thing divine</line>
+        <line>Like thee, can die - thy funeral shrine</line>
+        <line rend="indent1">is thy mother`s heart <add place="superlinear">heart</add> <add place="sublinear">grief</add> & mine</line>
+        <line></line>
+        <line></line>
+        <!unclear how to include greek writing here>
+    </zone>
 </surface>

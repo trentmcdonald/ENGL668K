@@ -4,5 +4,26 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046v.jpg"/>
-    
+    <zone type="library">
+        <line>*46v.</line>
+    </zone>
+    <zone>
+        <line type="main"><del rend="strikethrough">A melancholy gladness</del></line>
+        <line>Let me think that thro low seeds</line>
+        <line>Of the<del rend="strikethrough"> living breathing</del><add place="subliner">sweet <unclear>flowers</unclear></add> & sunny grass</line>
+        <line><del rend="strikethrough">An unknown power may</del></line>
+        <line>Into these hues &amp; scents may pass</line>
+        <line>A portion</line>
+    </zone>
+    <!-- use <milestone unit="tei:p"/> instead?-->
+    <space dim="horizontal" unit="lines" extent="2"></space>
+    <zone rotate="180">
+        <line>Originality does not consist</line>
+        <line><del rend="strikethrough"> in words &amp; names, or stories</del></line>
+        <line>or combinations of metre &amp;</line>
+        <line>language different from those</line>
+        <line>which have gone before, it</line>
+        <line>does not consist only<unclear reason="illegible"> in avoid</unclear></line>
+        <line>a resamblance</line>
+    </zone>
 </surface>

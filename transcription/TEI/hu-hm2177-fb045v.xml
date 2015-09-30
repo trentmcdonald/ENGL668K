@@ -7,6 +7,7 @@
     <zone type="left_margin" rotate="90">
         <line>think not gold or flattery vile</line>
         <line><del rend="strikethrough">?W</del></line>
+        <!--place we need to fix-->
    </zone>
    <zone type="library">
        <line rend="indent10">*45v.</line>
@@ -17,7 +18,8 @@
         <line>Thou art not... if a thing divine</line>
         <line>Like thee, can die - thy funeral shrine</line>
         <line rend="indent1">is thy mother`s heart <add place="superlinear">heart</add> <add place="sublinear">grief</add> &amp; mine</line>
-        <space dim="vertical" unit="lines" extent="3"/>
+        <space dim="vertical" unit="lines" extent="3">
+            <!--place we need to fix-->
         <line>μνημη των αγαθων αeι θαλης</line>
         <line><unclear reason="illegible" extent="3" unit="chars"></unclear></line>
     </zone>

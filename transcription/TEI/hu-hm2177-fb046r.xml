@@ -13,7 +13,7 @@
         <line>non e piu come era <space dim="horizontal" unit="chars" extent="3"/>prima</line>
         <line>My lost William,</line>
         <line><del rend="strikethrough">Ruined creature</del> thou in whom</line>
-        <line>Some <del rend="striketrough">sweet</del><add place="superlinear">bright</add> spirit lived, & did</line>
+        <line>Some <del rend="striketrough">sweet</del><add place="superlinear">bright</add> spirit lived, &amp; did</line>
         <line>That decaying robe consume</line>
         <line>which its <del rend="striketrough">gentle lus</del> <add place="superlinear">lustre faintly</add> hid</line>
         <line><del rend="striketrough">In the Thy remains</del></line>

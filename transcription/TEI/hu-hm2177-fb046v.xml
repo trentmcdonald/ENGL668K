@@ -7,8 +7,8 @@
     <zone type="library">
         <line>*46v.</line>
     </zone>
-    <zone>
-        <line type="main"><del rend="strikethrough">A melancholy gladness</del></line>
+    <zone type="main">
+        <line><del rend="strikethrough">A melancholy gladness</del></line>
         <line>Let me think that thro low seeds</line>
         <line>Of the<del rend="strikethrough"> living breathing</del><add place="sublinear">sweet <unclear reason="illegible">flowers</unclear></add> &amp; sunny grass</line>
         <line><del rend="strikethrough">An unknown power may</del></line>

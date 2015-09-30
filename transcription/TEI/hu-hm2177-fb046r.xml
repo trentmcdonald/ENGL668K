@@ -39,7 +39,7 @@
         <!--One line of Shelley split across lines of code because it would be too long here otherwise -->
         <line>The <del rend "strikethrough">grass living</del> <add place = "superlinear">love</add> 
         of living flowers <add place = "superlinear">leaves</add> <add place = "sublinear">&amp; weeds</add></line>
-        <line>Among these tombs & ruins wild</line>
+        <line>Among these tombs &amp; ruins wild</line>
         <line><del rend = "strikethrough">Could I believe that</del></line>
     </zone>
 </surface>

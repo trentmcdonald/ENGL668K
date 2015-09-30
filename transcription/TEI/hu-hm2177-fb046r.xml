@@ -9,32 +9,34 @@
         <line>*46r</line>
     </zone>
     <zone type="main"> 
-        <line>With what truth I may say</line>
-        <line><space dim="horizontal" unit="chars" extent="1"/>Roma <space dim="horizontal" unit="chars" extent="3"/>Roma<space dim="horizontal" unit="chars" extent="3"/> Roma</line>
-        <line>non e piu come era <space dim="horizontal" unit="chars" extent="3"/>prima</line>
-        <line>My lost William,</line>
-        <line><del rend="strikethrough">Ruined creature</del> thou in whom</line>
-        <line>Some <del rend="striketrough">sweet</del><add place="superlinear">bright</add> spirit lived, &amp; did</line>
-        <line>That decaying robe consume</line>
-        <line>which its <del rend="striketrough">gentle lus</del> <add place="superlinear">lustre faintly</add> hid</line>
-        <line><del rend="striketrough">In the Thy remains</del></line>
-        <line>Here its ashes find a tomb</line>
-        <line><del rend="striketrough"></del>under</del></del><add place="superlinear">But be</add>neath this pyramid</line>
-        <line><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
-        <line>Rest thy bones- there is a shrine</line>
-         <!-- Figure out how to underline -->
-        <line>From thy</line>
-        <line>Where are <del rend="strikethrough">thou</del> gone my gentle <add place="superlinear">child</add> <del rend="strikethrough">boy</del></line>
-        <!--Unsure if it is OK to to do a strikethrough on individual words interlineally; I'm guessing it's fine -->
-        <line><del rend="strikethrough">Dissolved into the the living weeds</del></line>
-        <!-- two "the"s intentional -->
-        <line><del rend="strikethrough">Whose Child I</del><add place="superlinear">Let me</add> think thy spirit feeds</line>
-        <line>Within its <del rend = "strikethrough">young <unclear reason="illegible" extent="3" unit="chars"></unclear></del>
-        <add place="superlinear">life <del rend="strikethrough"></del>small</add> intense <add place="superlinear">&amp; mild</add></line>
-        <!--One line of Shelley split across lines of code because it would be too long here otherwise -->
-        <line>The <del rend="strikethrough">grass living</del> <add place="superlinear">love</add> 
-        of living <mod><del rend="strikethrough">flowers</del> <add place="superlinear">leaves</add> <add place="sublinear">&amp; weeds</add></mod></line>
-        <line>Among these tombs &amp; ruins wild</line>
-        <line><del rend="strikethrough">Could I believe that</del></line>
+            <line>With what truth I may say</line>
+            <line><space dim="horizontal" unit="chars" extent="1"/>Roma <space dim="horizontal" unit="chars" extent="3"/>Roma<space dim="horizontal" unit="chars" extent="3"/> Roma</line>
+            <line>non e piu come era <space dim="horizontal" unit="chars" extent="3"/>prima</line>
+            <line>My lost William,</line>
+            <line><del rend="strikethrough">Ruined creature</del> thou in whom</line>
+            <line>Some <del rend="striketrough">sweet</del><add place="superlinear">bright</add> spirit lived, &amp; did</line>
+            <line>That decaying robe consume</line>
+            <line>which its <del rend="striketrough">gentle lus</del> <add place="superlinear">lustre faintly</add> hid</line>
+            <line><del rend="striketrough">In the Thy remains</del></line>
+            <line>Here its ashes find a tomb</line>
+            <line><del rend="striketrough"></del>under</del></del><add place="superlinear">But be</add>neath this pyramid</line>
+            <line><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
+            <line>Rest thy bones- there is a shrine</line>
+            <!-- Figure out how to underline -->
+            <line>From thy</line>
+            <line>Where are <del rend="strikethrough">thou</del> gone my gentle <add place="superlinear">child</add> <del rend="strikethrough">boy</del></line>
+            <!--Unsure if it is OK to to do a strikethrough on individual words interlineally; I'm guessing it's fine -->
+            <line><del rend="strikethrough">Dissolved into the the living weeds</del></line>
+            <!-- two "the"s intentional -->
+            <line><del rend="strikethrough">Whose Child I</del><add place="superlinear">Let me</add> think thy spirit feeds</line>
+            <line>Within its <del rend = "strikethrough">young <unclear reason="illegible" extent="3" unit="chars"></unclear></del>
+            <add place="superlinear">life <del rend="strikethrough"></del>small</add> intense <add place="superlinear">&amp; mild</add></line>
+            <!--One line of Shelley split across lines of code because it would be too long here otherwise -->
+            <line>The <del rend="strikethrough">grass living</del> <add place="superlinear">love</add> 
+            of living 
+                <mod><del rend="strikethrough">flowers</del> <add place="superlinear">leaves</add> 
+                <add place="sublinear">&amp; weeds</add></mod></line>
+            <line>Among these tombs &amp; ruins wild</line>
+            <line><del rend="strikethrough">Could I believe that</del></line>
         </zone>
 </surface>

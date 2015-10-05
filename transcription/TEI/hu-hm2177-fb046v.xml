@@ -13,8 +13,10 @@
         </line>
         <line>Let me think that thro low seeds</line>
         <line>Of the
-            <del rend="strikethrough"> living breathing</del>
-            <add place="subliner">sweet <unclear>flowers</unclear></add>
+            <mod>
+                <del rend="strikethrough"> living breathing</del>
+                <add place="subliner">sweet <unclear>flowers</unclear></add>
+            </mod>
             &amp; sunny grass
         </line>
         <line>

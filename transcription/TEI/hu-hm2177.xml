@@ -29,14 +29,23 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <altIdentifier>
-                            <idno></idno>
-                        </altIdentifier>
+                         <repository>Huntington</repository>
+                         <idno>MS HM 2177, ff. *45v–*46v</idno>
+                         <altIdentifier>
+                              <idno>MYR IV, 300–5</idno>
+                         </altIdentifier>
+                    </msIdentifier>
+                    <msIdentifier>
+                         <repository>Harvard</repository>
+                         <idno>MS. Harvard Eng.258.2, pp. “92”–“93”</idno>
+                         <altIdentifier>
+                              <idno>MYR V, 91–92</idno>
+                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
                         <msItem>
                             <bibl>
-                                <title></title>
+                                <title>“My lost William, thou in whom” (“To William Shelley”)</title>
                             </bibl>
                         </msItem>
                     </msContents>

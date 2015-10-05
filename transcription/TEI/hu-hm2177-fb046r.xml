@@ -25,7 +25,6 @@
             <!-- Figure out how to underline -->
             <line>From thy</line>
             <line>Where are <del rend="strikethrough">thou</del> gone my gentle <add place="superlinear">child</add> <del rend="strikethrough">boy</del></line>
-            <!--Unsure if it is OK to to do a strikethrough on individual words interlineally; I'm guessing it's fine -->
             <line><del rend="strikethrough">Dissolved into the the living weeds</del></line>
             <!-- two "the"s intentional -->
             <line><del rend="strikethrough">Whose Child I</del><add place="superlinear">Let me</add> think thy spirit feeds</line>

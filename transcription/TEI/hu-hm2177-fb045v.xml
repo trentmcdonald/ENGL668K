@@ -8,10 +8,10 @@
         <handShift new="#pbs1"/>    
             <line>think not gold or flattery vile</line>
             <line><del rend="strikethrough">?W</del></line>
-            <!--place we need to fix--</zone>-->
+            <!--place we need to fix--</zone>
    <zone type="library">
        <line rend="indent10">*45v.</line>
-       </zone>
+       </zone>-->
        
     <zone type="main">
         <handShift new="#pbs1"/>

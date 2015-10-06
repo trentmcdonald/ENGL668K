@@ -15,7 +15,7 @@
        </zone>
        
     <zone type="main">
-        <handShift new="#pbs1"/>
+        <!--handShift new="#pbs1"/-->
             <line>Thou art not... if a thing divine</line>
             <line>Like thee, can die - thy funeral shrine</line>
             <line rend="indent1">is thy mother`s heart <add place="superlinear">heart</add> <add place="sublinear">grief</add> &amp; mine</line>

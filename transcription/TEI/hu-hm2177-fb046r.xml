@@ -3,12 +3,15 @@
 <?xml-model href="schema/shelley-godwin-page.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
+    <handNote xml:id="pbs1"><persName>Percy Shelley</persName></handNote>
+    <handNote xml:id="pbs2"><persName>Percy Shelley's later editing</persName></handNote>
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
     
     <zone type="libary">
         <line>*46r</line>
     </zone>
-    <zone type="main"> 
+    <zone type="main">
+        <handShift new="#pbs1"/>
             <line>With what truth I may say</line>
             <line><space dim="horizontal" unit="chars" extent="1"/>Roma <space dim="horizontal" unit="chars" extent="3"/>Roma<space dim="horizontal" unit="chars" extent="3"/> Roma</line>
             <line>non e piu come era <space dim="horizontal" unit="chars" extent="3"/>prima</line>
@@ -40,7 +43,6 @@
             <!-- Figure out how to underline -->
             <line>From thy</line>
             <line>Where are <del rend="strikethrough">thou</del> gone my gentle <add place="superlinear">child</add> <del rend="strikethrough">boy</del></line>
-            <!--Unsure if it is OK to to do a strikethrough on individual words interlineally; I'm guessing it's fine -->
             <line><del rend="strikethrough">Dissolved into the the living weeds</del></line>
             <!-- two "the"s intentional -->
             <line><del rend="strikethrough">Whose Child I</del><add place="superlinear">Let me</add> think thy spirit feeds</line>
@@ -49,7 +51,7 @@
             <!--One line of Shelley split across lines of code because it would be too long here otherwise -->
             <line>The <del rend="strikethrough">grass living</del> <add place="superlinear">love</add> 
             of living 
-                <mod><del rend="strikethrough">flowers</del> <add place="superlinear">leaves</add> 
+                <mod><del rend="strikethrough">flowers</del> <add place="superlinear" hand="#pbs2">leaves</add>
                 <add place="sublinear">&amp; weeds</add></mod></line>
             <line>Among these tombs &amp; ruins wild</line>
             <line><del rend="strikethrough">Could I believe that</del></line>

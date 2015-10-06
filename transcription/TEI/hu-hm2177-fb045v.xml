@@ -4,11 +4,11 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb045v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb045v.jpg"/>
-    <!--<zone type="left_margin" rotate="90"> 
+    <zone type="left_margin" rotate="90"> 
         <handShift new="#pbs1"/>    
             <line>think not gold or flattery vile</line>
-            <line><del rend="strikethrough">?W</del></line>
-            <!--place we need to fix--</zone>
+            <line></line><del rend="strikethrough">?W</del></line>
+            <!--place we need to fix--></zone>
    <zone type="library">
        <line rend="indent10">*45v.</line>
        </zone>
@@ -23,8 +23,8 @@
                     <add place="sublinear">grief</add> 
                     &amp; mine</mod></line>
                 
-            <!--comment<space dim="vertical" unit="lines" extent="3"/>
-            <!--place we need to fix
+            <!--comment<space dim="vertical" unit="lines" extent="3"/>-->
+            <!--place we need to fix-->
             <line>μνημη των αγαθων αeι θαλης</line>
-            <!--<line><unclear reason="illegible"></unclear></line></zone>-->
+            <line><unclear reason="illegible"></unclear></line>
 </surface>

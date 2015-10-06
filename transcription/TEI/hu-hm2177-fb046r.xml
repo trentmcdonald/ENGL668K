@@ -17,12 +17,27 @@
             <line>non e piu come era <space dim="horizontal" unit="chars" extent="3"/>prima</line>
             <line>My lost William,</line>
             <line><del rend="strikethrough">Ruined creature</del> thou in whom</line>
-            <line>Some <del rend="striketrough">sweet</del><add place="superlinear">bright</add> spirit lived, &amp; did</line>
+            <line>Some 
+                <mod>
+                    <del rend="striketrough">sweet</del>
+                    <add place="superlinear">bright</add>
+                </mod>
+                spirit lived, &amp; did</line>
             <line>That decaying robe consume</line>
-            <line>which its <del rend="striketrough">gentle lus</del> <add place="superlinear">lustre faintly</add> hid</line>
+            <line>which its 
+                <mod>
+                    <del rend="striketrough">gentle lus</del>
+                    <add place="superlinear">lustre faintly</add>
+                </mod>
+                hid</line>
             <line><del rend="striketrough">In the Thy remains</del></line>
             <line>Here its ashes find a tomb</line>
-            <line><del rend="striketrough"></del>under</del></del><add place="superlinear">But be</add>neath this pyramid</line>
+            <line>
+                <mod>
+                    <del rend="striketrough">under</del>
+                    <add place="superlinear">But be</add>
+                </mod>
+                 neath this pyramid</line>
             <line><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
             <line>Rest thy bones- there is a shrine</line>
             <!-- Figure out how to underline -->

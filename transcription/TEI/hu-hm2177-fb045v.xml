@@ -7,9 +7,8 @@
     <!--<zone type="left_margin" rotate="90"> 
         <handShift new="#pbs1"/>    
             <line>think not gold or flattery vile</line>
-            <line><del rend="strikethrough">?W</del></line>-->
-            <!--place we need to fix-->
-   </zone>
+            <line><del rend="strikethrough">?W</del></line>
+            <!--place we need to fix--</zone>-->
    <zone type="library">
        <line rend="indent10">*45v.</line>
        </zone>

@@ -27,9 +27,7 @@
         </line>
         <line>Into these hues &amp; scents may pass</line>
         <line>A portion</line>
-    
-    <!-- use <milestone unit="tei:p"/> instead?-->
-    <space dim="horizontal" unit="lines" extent="2"></space>
+        <space dim="horizontal" unit="lines" extent="2"></space>
     </zone>
     <zone rotate="180">
         <line>Originality does not consist</line>

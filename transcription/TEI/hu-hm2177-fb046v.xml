@@ -3,7 +3,6 @@
 <?xml-model href="schema/shelley-godwin-page.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046v" ulx="0" uly="0" lrx="5412" lry="7216">
-    <handNote xml:id="pbs1"><persName>Percy Shelley</persName></handNote>
     <graphic url="../../images/hu-hm2177-fb046v.jpg"/>
     
     <zone type="library">

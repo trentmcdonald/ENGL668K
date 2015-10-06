@@ -50,9 +50,13 @@
                 </mod></line>
             <line>Within its 
                 <mod>
-                    <del rend = "strikethrough">young <unclear reason="illegible" extent="3" unit="chars"></unclear></del>
-                    <add place="superlinear">life <del rend="strikethrough"></del>small</add> intense <add place="superlinear">&amp; mild</add>
-                </mod></line>
+                    <del rend = "strikethrough">young<unclear reason="illegible" extent="3" unit="chars"></unclear></del>
+                    <add place="superlinear">life 
+                    <del rend="strikethrough">small</del></add>
+                    life intense 
+                    <add place="superlinear">&amp; mild</add>
+                </mod>
+            </line>
             <line>The 
                 <mod>
                     <del rend="strikethrough">grass living</del> 

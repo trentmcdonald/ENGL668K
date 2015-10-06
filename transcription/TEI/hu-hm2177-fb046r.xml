@@ -45,14 +45,25 @@
             <line>Where are <del rend="strikethrough">thou</del> gone my gentle <add place="superlinear">child</add> <del rend="strikethrough">boy</del></line>
             <line><del rend="strikethrough">Dissolved into the the living weeds</del></line>
             <!-- two "the"s intentional -->
-            <line><del rend="strikethrough">Whose Child I</del><add place="superlinear">Let me</add> think thy spirit feeds</line>
-            <line>Within its <del rend = "strikethrough">young <unclear reason="illegible" extent="3" unit="chars"></unclear></del>
-            <add place="superlinear">life <del rend="strikethrough"></del>small</add> intense <add place="superlinear">&amp; mild</add></line>
-            <!--One line of Shelley split across lines of code because it would be too long here otherwise -->
-            <line>The <del rend="strikethrough">grass living</del> <add place="superlinear">love</add> 
+            <line>
+                <mod><del rend="strikethrough">Whose Child I</del><add place="superlinear">Let me</add> think thy spirit feeds
+                </mod></line>
+            <line>Within its 
+                <mod>
+                    <del rend = "strikethrough">young <unclear reason="illegible" extent="3" unit="chars"></unclear></del>
+                    <add place="superlinear">life <del rend="strikethrough"></del>small</add> intense <add place="superlinear">&amp; mild</add>
+                </mod></line>
+            <line>The 
+                <mod>
+                    <del rend="strikethrough">grass living</del> 
+                    <add place="superlinear">love</add>
+                </mod> 
             of living 
-                <mod><del rend="strikethrough">flowers</del> <add place="superlinear" hand="#pbs2">leaves</add>
-                <add place="sublinear">&amp; weeds</add></mod></line>
+                <mod>
+                    <del rend="strikethrough">flowers</del> 
+                    <add place="superlinear" hand="#pbs2">leaves</add>
+                    <add place="sublinear">&amp; weeds</add>
+                </mod></line>
             <line>Among these tombs &amp; ruins wild</line>
             <line><del rend="strikethrough">Could I believe that</del></line>
         </zone>

@@ -10,7 +10,7 @@
     </zone>
     
     <zone type="main">
-        <handShift new="#pbs"/>
+        <handShift new="#pbs1"/>
         <line>
             <del rend="strikethrough">A melancholy gladness</del>
         </line>

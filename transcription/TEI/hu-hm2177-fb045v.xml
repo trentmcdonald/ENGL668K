@@ -22,8 +22,8 @@
                 <mod>
                     <add place="superlinear">heart</add> 
                     <add place="sublinear">grief</add> 
-                    &amp; mine</line>
-                </mod>
+                    &amp; mine</mod></line>
+                
             <!--comment<space dim="vertical" unit="lines" extent="3"/>-->
             <!--place we need to fix-->
             <line>μνημη των αγαθων αeι θαλης</line>

@@ -8,8 +8,8 @@
     <zone type="left_margin" rotate="90"> 
         <handShift new="#pbs1"/>    
             <line>think not gold or flattery vile</line>
-            <line><del rend="strikethrough">?W</del></line>
-            <!--place we need to fix--></zone>
+            <line><del rend="strikethrough"><unclear reason="illegible"></unclear></del></line>
+    </zone>
             
    <zone type="library">
        <line rend="indent10">*45v.</line>
@@ -27,8 +27,7 @@
                 </mod>
             </line>
                 
-            <!--comment<space dim="vertical" unit="lines" extent="3"/>-->
-            <!--place we need to fix-->
+            <space dim="vertical" unit="lines" extent="3"/>
             <line>μνημη των αγαθων αeι θαλης</line>
             <line><unclear reason="illegible"></unclear></line>
     </zone>

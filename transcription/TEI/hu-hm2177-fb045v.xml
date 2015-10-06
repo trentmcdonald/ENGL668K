@@ -24,7 +24,7 @@
                     <add place="sublinear">grief</add> 
                     &amp; mine</line>
                 </mod>
-            <space dim="vertical" unit="lines" extent="3"/>
+            <!--comment<space dim="vertical" unit="lines" extent="3"/>-->
             <!--place we need to fix-->
             <line>μνημη των αγαθων αeι θαλης</line>
             <line><unclear reason="illegible"></unclear></line>

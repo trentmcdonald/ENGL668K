@@ -27,7 +27,7 @@
             &amp; mine</line>
             <space dim="vertical" unit="lines" extent="3">
             <!--place we need to fix-->
-            <line>μνημη των αγαθων αeι θαλης</line>
-            <line><unclear reason="illegible" extent="3" unit="chars"></unclear></line>
+           <!-- <line>μνημη των αγαθων αeι θαλης</line>
+            <line><unclear reason="illegible" extent="3" unit="chars"></unclear></line> -->
     </zone>
 </surface>

@@ -11,7 +11,7 @@
             <!--place we need to fix--</zone>
    <zone type="library">
        <line rend="indent10">*45v.</line>
-       </zone>-->
+       </zone>
        
     <zone type="main">
         <handShift new="#pbs1"/>
@@ -26,6 +26,5 @@
             <!--comment<space dim="vertical" unit="lines" extent="3"/>-->
             <!--place we need to fix-->
             <line>μνημη των αγαθων αeι θαλης</line>
-            <!--<line><unclear reason="illegible"></unclear></line>-->
-    </zone>
+            <!--<line><unclear reason="illegible"></unclear></line></zone>-->
 </surface>

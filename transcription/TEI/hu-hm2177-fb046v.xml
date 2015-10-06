@@ -10,7 +10,6 @@
     </zone>
     
     <zone type="main">
-    <zone>
         <handShift new="#pbs" />
         <line>
             <del rend="strikethrough">A melancholy gladness</del>
@@ -41,6 +40,5 @@
         <line>which have gone before, it</line>
         <line>does not consist only<unclear reason="illegible"> in avoid</unclear></line>
         <line>a resemblance</line>
-    </zone>
     </zone>
 </surface>

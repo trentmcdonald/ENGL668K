@@ -8,9 +8,11 @@
     <zone type="library">
         <line>*46v.</line>
     </zone>
+    
+    <zone type="main">
     <zone>
         <handShift new="#pbs" />
-        <line type="main">
+        <line>
             <del rend="strikethrough">A melancholy gladness</del>
         </line>
         <line>Let me think that thro low seeds</line>
@@ -39,5 +41,6 @@
         <line>which have gone before, it</line>
         <line>does not consist only<unclear reason="illegible"> in avoid</unclear></line>
         <line>a resemblance</line>
+    </zone>
     </zone>
 </surface>

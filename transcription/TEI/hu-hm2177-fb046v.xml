@@ -29,6 +29,7 @@
         <line>A portion</line>
         <space dim="horizontal" unit="lines" extent="2"></space>
     </zone>
+    
     <zone rotate="180">
         <line>Originality does not consist</line>
         <line>

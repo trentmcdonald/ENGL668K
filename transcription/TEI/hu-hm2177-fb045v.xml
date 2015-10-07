@@ -8,10 +8,12 @@
     <zone type="left_margin" rotate="90"> 
         <handShift new="#pbs1"/>    
             <line>think not gold or flattery vile</line>
-            <line><del rend="strikethrough"><unclear reason="illegible"></unclear></del></line>
+            <line>
+                <del rend="strikethrough"><unclear reason="illegible"></unclear></del>
+            </line>
     </zone>
             
-   <zone type="library">
+    <zone type="library">
        <line rend="indent10">*45v.</line>
     </zone>
        

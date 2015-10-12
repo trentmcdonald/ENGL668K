@@ -72,7 +72,7 @@
                 <mod>
                     <del rend = "strikethrough">young<unclear reason="illegible" extent="3" unit="chars"></unclear></del>
                     <add place="superlinear">life
-            <!-- double-check the nesting order of add and del below-->
+            <!-- double-check the nesting order of add and del below; visualized correctly-->
                     <del rend="strikethrough">small</del></add>
                     life intense 
                     <add place="superlinear">&amp; mild</add>

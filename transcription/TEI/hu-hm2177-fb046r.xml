@@ -49,7 +49,7 @@
                 <del rend="strikethrough">Lie thy bones - if thou canst die</del>
             </line>
             <line>Rest thy bones- there is a shrine</line>
-            <!-- Figure out how to underline -->
+            <!-- multiline <del> here -->
             <line>From thy</line>
             <line>Where are thou 
                 <del rend="strikethrough">gone</del> 
